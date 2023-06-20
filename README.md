@@ -1,4 +1,4 @@
-###Telegram Group Parser
+### Telegram Group Parser
 This Python script allows you to parse messages and members from a Telegram group using the Telegram API. It retrieves the messages and members of a specified group and saves them in separate CSV files.
 
 Prerequisites
