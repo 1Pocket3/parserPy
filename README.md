@@ -10,9 +10,9 @@ A Python script for parsing messages and members from a Telegram group using Tel
 Configuration
 Before running the script, you need to provide your Telegram API credentials and phone number in the code. Update the following variables in the script:
 ```python
-api_id = 19731250
-api_hash = 'a731089fa347eed13af6b2e9248426a6'
-phone = '+380634045474'
+api_id = INSERT UR ID
+api_hash = 'INSERT UR HASH'
+phone = 'INSERT UR PHONE'
 ```
 ## Usage
 
@@ -26,4 +26,3 @@ phone = '+380634045474'
 
 + Once the process is complete, you will see the success messages indicating that the parsing of members and messages was done successfully.
 
-# Rest of the code...
