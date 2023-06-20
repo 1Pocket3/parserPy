@@ -6,7 +6,9 @@ A Python script for parsing messages and members from a Telegram group using Tel
 
 - `xmlrpc.client`
 - `telethon`
-
+```python
+Configuration
+Before running the script, you need to provide your Telegram API credentials and phone number in the code. Update the following variables in the script:
 ## Usage
 
 + Run the script using a Python interpreter.
